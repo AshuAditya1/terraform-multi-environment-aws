@@ -1,4 +1,4 @@
-# Terraform Exam Command Sequence
+# Terraform Sequence
 
 This document provides the exact commands you need to successfully execute the multi-environment Terraform exam deployment.
 
